@@ -1,3 +1,5 @@
+## INCREASING AUTOMATION FOR SYNOPTIC DRAWING & EVENTUALLY PHASING OUT IDL IMAGE TOOL FOR RE-SIZE AND PRINT
+
 # GOAL
 
 Improve forecast operations by phasing out the IDL "image" program to resize and print image files for the synoptic drawing.
