@@ -16,7 +16,7 @@ The code eliminates the need for forecasts to search through an enormous ftp dir
 
 This code is in beta mode and testing is ongoing in the forecast office. There is no expected completion date.
 
-# FUTURE EFFOTS
+# FUTURE EFFORTS
 
 This code currently compliments the IDL "image" program. Future iterations of code will bypass this program entirely. The code will auto-resize (ephemeris-dependent) and print the images with just a few clicks. 
 
