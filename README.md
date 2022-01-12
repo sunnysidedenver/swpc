@@ -16,3 +16,7 @@ This code is in beta mode and testing is ongoing in the forecast office. There i
 
 This code currently compliments the IDL "image" program. Future iterations of code will bypass this program entirely. The code will auto-resize (ephemeris-dependent) and print the images with just a few clicks. 
 
+The code does not pull H-alpha GONG imagery yet given that human/forecaster has to determine which image is best for analysis (i.e., which is sharpest). I will be experimenting with image analysis/machine learning techniques to train a model to auto-select the "best" image.
+
+
+
