@@ -12,7 +12,7 @@ This code auto-pulls image files from NASA's SDO website (https://sdo.gsfc.nasa.
 
 The code eliminates the need for forecasts to search through an enormous ftp directory for the latest files. It should be compatible with GIMP, software used by some forecasters to do the synoptic drawing digitally. 
 
-# TESTING
+# STATUS
 
 This code is in beta mode and testing is ongoing in the forecast office. There is no expected completion date.
 
