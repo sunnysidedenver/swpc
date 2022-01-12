@@ -6,7 +6,7 @@ Improve forecast operations by phasing out the IDL "image" program to resize and
 
 This code auto-pulls image files from NASA's SDO website (https://sdo.gsfc.nasa.gov/) into a local directory then renames the files according to the file convention required to be used by the IDL "image tool" in the forecast office. Forecasters use these images to produce twice-daily synoptic drawings of the Sun. 
 
-The code eliminates the need for forecasts to search through an enormous ftp directory for the latest files. 
+The code eliminates the need for forecasts to search through an enormous ftp directory for the latest files. It should be compatible with GIMP, software used by some forecasters to do the synoptic drawing digitally. 
 
 # TESTING
 
