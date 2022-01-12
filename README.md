@@ -1,5 +1,7 @@
 ## <p align="center"> INCREASING AUTOMATION FOR SYNOPTIC DRAWING & EVENTUALLY PHASING OUT THE IDL IMAGE TOOL FOR RE-SIZING AND PRINTING IMAGES </p>
 
+![Example Synoptic Drawing](https://raw.githubusercontent.com/sunnysidedenver/swpc/main/synoptic-map.jpg)
+
 # GOAL
 
 Improve forecast operations by phasing out the IDL "image" program to resize and print image files for the synoptic drawing.
