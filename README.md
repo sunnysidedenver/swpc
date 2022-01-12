@@ -10,7 +10,7 @@ The code eliminates the need for forecasts to search through an ftp directory fo
 
 # TESTING
 
-This code is in beta mode and testing is ongoing in the SWFO. There is no expected completion date.
+This code is in beta mode and testing is ongoing in the forecast office. There is no expected completion date.
 
 # FUTURE EFFOTS
 
